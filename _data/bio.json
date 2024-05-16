@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nori Tarui",
     "label": "NRT Faculty",
-    "picture": "/img/ntaruiphoto1.png",
+    "picture": "~/img/ntaruiphoto1.png",
     "email": "nori@hawaii.edu",
     "phone": "808-965-8427",
     "website": "https://ntarui.github.io",
