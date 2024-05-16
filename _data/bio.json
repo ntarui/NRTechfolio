@@ -5,7 +5,7 @@
     "picture": "img/ntaruiphoto1.png",
     "email": "nori@hawaii.edu",
     "phone": "808-965-8427",
-    "website": "https://ntarui.github.io",
+    "website": "https://nori523.wixsite.com/my-site",
     "summary": "I am an NRT DESCARTES faculty in the Department of Economics at the University of Hawaiʻi at Mānoa.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
@@ -44,15 +44,41 @@
       "company": "Department of Economics, University of Hawaiʻi at Mānoa",
       "position": "Professor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-08-01",
       "endDate": "Present",
       "summary": "Professor of Economics",
+      "highlights": [
+        "Teach courses in economics",
+        "Conduct research in economics",
+        "Graduate Chair, 2020-2023"
+      ]
+    },
+    {
+      "company": "Department of Economics, University of Hawaiʻi at Mānoa",
+      "position": "Associate Professor",
+      "website": "",
+      "startDate": "2010-08-01",
+      "endDate": "2018-07-31",
+      "summary": "Associate Professor of Economics",
+      "highlights": [
+        "Teach courses in economics",
+        "Conduct research in economics",
+        "Graduate Chair, 2010-2013"
+      ]
+    },
+    {
+      "company": "Department of Economics, University of Hawaiʻi at Mānoa",
+      "position": "Assistant Professor",
+      "website": "",
+      "startDate": "2006-08-01",
+      "endDate": "2010-07-31",
+      "summary": "Assistnat Professor of Economics",
       "highlights": [
         "Teach courses in economics",
         "Conduct research in economics"
       ]
     },
-    {
+        {
       "company": "UH Information Technology Services",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
