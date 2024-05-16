@@ -16,11 +16,9 @@
     ]
   },
   "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Environmental Economics" },
+    { "name": "Energy Econoimcs" },
+    { "name": "International Education" }
   ],
   "skills": [
     {
