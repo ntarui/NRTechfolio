@@ -23,35 +23,35 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Matlab", "Stata", "R"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS",  "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "M.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "University of Minnesota, Twin Cities, MN",
+      "area": "Agricultural and Applied Economics",
+      "studyType": "Ph.D.",
+      "startDate": "1999-09-01",
+      "endDate": "2004-07-31",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Department of Economics, University of Hawaiʻi at Mānoa",
+      "position": "Professor",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Professor of Economics",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Teach courses in economics",
+        "Conduct research in economics"
       ]
     },
     {
