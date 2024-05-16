@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Nori Tarui",
-    "label": "NRT Faculty",
+    "label": "Professor; NRT Faculty",
     "picture": "img/ntaruiphoto1.png",
     "email": "nori@hawaii.edu",
     "phone": "808-965-8427",
     "website": "https://nori523.wixsite.com/my-site",
-    "summary": "I am an NRT DESCARTES faculty in the Department of Economics at the University of Hawaiʻi at Mānoa.",
+    "summary": "I am a Professor in the Department of Economics and an NRT DESCARTES faculty at the University of Hawaiʻi at Mānoa.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "ntarui", "url": "http://github.com/ntarui" },
@@ -79,15 +79,14 @@
       ]
     },
         {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "The Earth Institute at Columbia University",
+      "position": "Earth Institute Fellow",
+      "website": "https://www.earth.columbia.edu/",
+      "startDate": "2004-08-01",
+      "endDate": "2006-07-31",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Conduct research in economics"
       ]
     }
   ],
@@ -124,12 +123,6 @@
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
